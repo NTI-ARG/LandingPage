@@ -20,7 +20,7 @@ const App = (props) => (
       color="white"
       //backgroundImage="https://image.freepik.com/free-vector/colorful-memphis-design-background-vector_53876-81744.jpg"
       //backgroundImage="https://image.freepik.com/free-vector/blue-abstract-acrylic-brush-stroke-textured-background_53876-86373.jpg"
-      backgroundImage="https://img.freepik.com/vector-gratis/fondo-negro-foco-luz_1017-27230.jpg?w=996&t=st=1661545183~exp=1661545783~hmac=f4d12f5e6e12155f243b36f6d131793223eae3b1f5b51723a619763acb7f848e"
+      //backgroundImage="https://img.freepik.com/vector-gratis/fondo-negro-foco-luz_1017-27230.jpg?w=996&t=st=1661545183~exp=1661545783~hmac=f4d12f5e6e12155f243b36f6d131793223eae3b1f5b51723a619763acb7f848e"
       bg="black"
       bgOpacity={0.1}
     >
